@@ -1,0 +1,441 @@
+﻿Name,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+England,5,3,4,4,3,3,4,6,5,4
+Northern Ireland,4,2,1,0,0,0,1,2,1,0
+Scotland,3,4,4,5,2,0,1,4,4,2
+Wales,2,2,0,1,0,2,2,2,3,2
+,,,,,,,,,,
+North East,2,3,3,3,1,3,2,2,4,2
+North West,2,2,2,3,2,1,2,3,4,2
+Yorkshire and The Humber,5,3,4,4,2,2,2,4,4,3
+East Midlands,4,4,3,3,2,3,4,5,5,4
+West Midlands,5,3,3,4,3,2,3,5,6,5
+East,3,2,4,3,1,2,4,5,4,2
+London,14,11,10,13,8,9,13,15,13,9
+South East,3,2,3,2,2,2,4,4,5,3
+South West,1,0,2,3,2,2,2,3,2,1
+,,,,,,,,,,
+Buckinghamshire,1,0,1,1,0,0,2,3,3,2
+Cambridgeshire,3,2,8,5,0,3,4,5,3,2
+Cumbria,0,1,0,1,0,0,0,1,1,0
+Derbyshire,0,0,0,0,0,0,1,1,1,1
+Devon,-1,-1,1,3,2,3,3,3,2,2
+Dorset,-3,-4,-1,0,1,1,1,2,1,1
+East Sussex,0,-1,1,0,0,1,2,2,3,2
+Essex,1,0,2,2,1,1,2,3,2,2
+Gloucestershire,-1,0,2,2,1,1,2,2,1,1
+Hampshire,1,0,1,1,1,0,2,2,2,1
+Hertfordshire,2,1,2,2,0,1,3,4,4,2
+Kent,3,2,3,2,2,2,3,4,4,3
+Lancashire,2,2,3,3,2,1,2,3,2,1
+Leicestershire,2,2,2,3,1,1,2,2,2,2
+Lincolnshire,5,6,5,2,2,3,5,5,5,4
+Norfolk,4,3,4,4,2,3,4,5,3,2
+Northamptonshire,3,3,2,2,2,3,5,6,7,5
+North Yorkshire,2,1,0,1,0,1,1,1,2,1
+Nottinghamshire,2,2,2,1,1,1,2,2,3,2
+Oxfordshire,3,3,5,5,2,3,6,5,6,3
+Somerset,1,0,1,2,1,1,2,2,2,1
+Staffordshire,2,0,1,2,1,1,2,2,2,2
+Suffolk,1,-1,1,0,0,0,2,2,2,1
+Surrey,2,1,3,2,1,2,3,4,5,3
+Warwickshire,4,1,0,0,0,1,2,2,3,3
+West Sussex,4,3,4,2,1,2,3,3,4,2
+Worcestershire,3,0,0,1,2,2,2,2,3,2
+Greater Manchester (Met County),4,3,3,4,3,2,3,5,5,3
+Merseyside (Met County),1,1,2,3,3,2,2,4,4,1
+South Yorkshire (Met County),5,4,4,5,3,4,4,6,5,4
+West Midlands (Met County),6,4,5,6,4,4,5,7,9,7
+West Yorkshire (Met County),5,3,4,5,2,2,2,4,4,3
+Tyne and Wear (Met County),4,5,6,5,2,4,2,3,5,2
+,,,,,,,,,,
+Hartlepool,1,1,1,1,0,1,0,1,2,2
+Middlesbrough,6,5,7,8,3,4,3,5,9,5
+Redcar and Cleveland,0,0,0,0,0,0,1,1,2,1
+Stockton-on-Tees,1,1,1,1,1,2,2,2,4,2
+Darlington,2,1,-1,0,-1,0,-1,0,1,0
+Halton,0,0,0,1,0,0,0,1,2,1
+Warrington,2,2,2,1,1,1,2,1,2,0
+Blackburn with Darwen,4,3,3,2,1,1,1,3,5,3
+Blackpool,-3,-1,1,-2,1,0,1,1,2,1
+"Kingston upon Hull, City of",9,5,6,7,2,3,3,4,5,2
+East Riding of Yorkshire,2,1,1,2,1,1,1,1,1,0
+North East Lincolnshire,3,2,2,2,1,0,1,2,2,1
+North Lincolnshire,5,3,4,3,2,2,2,4,3,2
+York,6,4,8,8,4,6,4,7,5,4
+Derby,6,8,9,4,1,2,4,4,5,4
+Leicester,9,6,7,10,5,8,12,15,14,12
+Rutland,1,2,0,1,0,0,3,2,2,2
+Nottingham,14,13,11,10,7,9,11,12,12,11
+"Herefordshire, County of",7,4,2,4,7,4,5,6,5,5
+Telford and Wrekin,3,1,2,3,2,0,2,3,4,3
+Stoke-on-Trent,5,4,4,4,2,2,2,5,6,5
+Bath and North East Somerset,4,1,6,7,5,7,5,8,6,4
+"Bristol, City of",5,3,4,5,3,4,4,6,2,1
+North Somerset,1,1,0,1,1,1,1,1,1,1
+South Gloucestershire,3,3,3,3,2,3,2,4,2,1
+Plymouth,2,0,4,6,3,2,3,4,2,3
+Torbay,-1,-2,0,0,0,1,2,2,1,1
+Bournemouth,-3,0,13,10,8,7,6,8,6,4
+Poole,-1,-1,2,2,2,1,1,2,1,1
+Swindon,5,0,1,1,2,2,3,4,4,3
+Peterborough,16,12,13,9,7,8,10,11,10,7
+Luton,16,16,21,18,9,9,12,14,13,10
+Southend-on-Sea,1,-1,1,0,0,0,2,2,2,2
+Thurrock,6,1,3,2,1,2,3,5,5,3
+Medway,6,3,4,1,1,0,2,2,3,1
+Bracknell Forest,5,2,3,2,2,2,4,5,4,3
+West Berkshire,0,-3,-1,-4,0,0,2,2,3,1
+Reading,4,-1,9,2,4,4,10,12,12,9
+Slough,15,11,11,5,3,2,8,9,10,7
+Windsor and Maidenhead,4,0,1,0,-1,1,3,4,4,3
+Wokingham,4,4,4,3,1,1,4,4,6,3
+Milton Keynes,4,2,3,1,1,0,4,4,6,3
+Brighton and Hove,5,4,7,6,9,9,12,12,10,7
+Portsmouth,4,6,9,6,4,4,7,8,8,5
+Southampton,6,6,12,9,5,8,12,13,13,7
+Isle of Wight,-2,-2,-1,0,0,0,1,1,2,1
+County Durham,2,2,2,2,1,2,1,2,2,2
+Cheshire East,1,0,0,1,1,0,0,0,1,0
+Cheshire West and Chester,-2,-2,-1,-1,0,0,1,1,1,0
+Shropshire,1,1,0,1,1,0,1,1,2,1
+Cornwall,0,-1,1,1,1,1,1,1,1,0
+Isles of Scilly,-9,-17,-23,-6,7,-6,-3,1,3,0
+Wiltshire,2,0,0,0,0,0,1,1,1,0
+Bedford,5,4,5,2,1,2,4,5,4,2
+Central Bedfordshire,2,3,5,5,2,3,3,4,2,2
+Northumberland,0,0,0,0,0,0,0,0,1,0
+Aylesbury Vale,2,1,5,4,3,4,5,6,6,4
+Chiltern,0,-1,0,-2,-1,-1,1,1,2,1
+South Bucks,1,-1,-1,-1,-2,-1,1,1,2,2
+Wycombe,2,0,-1,-1,-3,-2,0,1,1,0
+Cambridge,-1,-6,19,9,-4,5,7,12,4,3
+East Cambridgeshire,6,9,7,4,2,3,5,4,3,3
+Fenland,6,9,9,7,5,7,6,8,6,4
+Huntingdonshire,2,2,3,2,0,0,2,2,1,0
+South Cambridgeshire,2,1,4,3,1,1,3,3,2,1
+Allerdale,0,1,-1,1,0,0,0,1,1,0
+Barrow-in-Furness,0,0,0,1,0,0,0,1,1,0
+Carlisle,1,1,1,1,0,0,-1,0,0,-1
+Copeland,0,1,0,1,0,0,0,0,0,0
+Eden,1,1,0,0,1,0,0,1,1,0
+South Lakeland,2,2,-1,0,1,1,1,2,2,0
+Amber Valley,0,0,0,0,0,0,1,1,1,0
+Bolsover,1,1,1,2,1,3,3,4,3,3
+Chesterfield,1,1,1,1,0,0,1,1,1,1
+Derbyshire Dales,1,1,0,0,0,0,1,1,1,1
+Erewash,0,0,0,0,0,0,1,1,0,0
+High Peak,1,1,0,0,0,0,1,1,1,1
+North East Derbyshire,0,1,1,1,1,0,1,1,1,1
+South Derbyshire,0,0,0,0,0,0,1,1,1,1
+East Devon,0,-1,0,1,1,1,1,2,1,1
+Exeter,-4,-1,8,11,9,11,10,12,7,5
+Mid Devon,-2,-2,0,1,1,1,2,2,1,1
+North Devon,-2,-2,1,1,1,1,1,1,1,1
+South Hams,-1,-2,-1,1,2,1,2,2,1,1
+Teignbridge,-2,-2,0,1,1,1,1,1,1,1
+Torridge,-1,0,0,1,1,1,1,1,1,1
+West Devon,0,-1,0,1,1,1,2,2,2,2
+Christchurch,-1,-1,1,1,0,0,1,1,1,1
+East Dorset,0,-1,0,1,1,1,1,1,1,1
+North Dorset,-7,-9,-6,1,1,1,1,2,2,2
+Purbeck,-1,-3,-1,0,0,0,1,1,1,1
+West Dorset,-3,-3,-1,0,1,1,1,2,1,1
+Weymouth and Portland,-3,-5,-1,0,0,1,1,1,2,1
+Eastbourne,-3,-3,0,-1,0,1,3,3,5,3
+Hastings,-1,-2,0,-1,0,1,2,3,4,3
+Lewes,2,2,1,2,-1,0,1,1,2,1
+Rother,-1,-1,0,0,0,1,2,2,2,2
+Wealden,0,0,1,1,2,1,2,2,2,1
+Basildon,1,0,1,0,1,1,2,2,2,2
+Braintree,0,0,1,1,0,1,2,2,1,1
+Brentwood,1,0,1,0,0,1,2,3,2,2
+Castle Point,0,-1,0,0,0,0,1,1,1,1
+Chelmsford,1,0,2,1,2,1,2,4,2,1
+Colchester,3,0,10,6,4,5,5,9,6,5
+Epping Forest,0,-1,0,1,0,1,2,3,3,2
+Harlow,3,2,2,4,3,3,6,5,5,3
+Maldon,1,1,1,1,1,1,1,2,1,1
+Rochford,-1,-1,0,0,0,0,1,1,1,1
+Tendring,0,-1,1,1,0,1,1,1,1,1
+Uttlesford,2,1,2,2,0,1,2,2,2,1
+Cheltenham,-1,2,4,5,1,-1,0,1,0,0
+Cotswold,-2,0,0,2,1,1,1,2,1,1
+Forest of Dean,-1,1,2,2,1,1,1,1,1,1
+Gloucester,-2,0,3,2,2,3,4,4,3,3
+Stroud,-3,-2,-1,1,1,1,1,0,0,1
+Tewkesbury,0,1,2,3,2,2,2,2,2,1
+Basingstoke and Deane,3,2,1,1,1,0,3,2,3,1
+East Hampshire,2,1,2,1,0,0,2,2,2,1
+Eastleigh,-1,0,1,1,0,0,1,1,1,0
+Fareham,1,1,1,1,1,1,1,1,1,1
+Gosport,0,0,0,0,0,0,1,1,1,1
+Hart,2,2,2,1,0,0,1,2,3,1
+Havant,0,0,0,1,0,0,1,1,1,1
+New Forest,1,1,3,2,1,1,2,2,2,2
+Rushmoor,0,-3,1,-1,1,0,2,3,4,3
+Test Valley,0,0,1,0,1,0,2,1,2,0
+Winchester,0,0,0,0,1,1,3,1,2,1
+Broxbourne,0,-1,-1,1,0,1,2,3,2,1
+Dacorum,2,0,0,0,0,0,2,3,3,2
+Hertsmere,3,1,1,0,-1,-1,3,4,3,3
+North Hertfordshire,0,-1,-1,0,-2,-1,1,1,1,1
+Three Rivers,1,0,1,0,-2,0,2,2,2,2
+Watford,4,2,4,0,-1,1,5,7,5,4
+Ashford,4,2,2,1,1,1,3,3,4,2
+Canterbury,5,2,8,9,9,5,8,12,11,9
+Dartford,2,1,2,2,1,1,3,3,3,2
+Dover,2,1,2,1,1,2,2,2,2,1
+Gravesham,6,5,5,4,0,2,3,4,5,3
+Maidstone,6,4,5,2,2,2,4,5,5,3
+Sevenoaks,-1,0,1,1,0,0,2,2,3,2
+Shepway,2,1,2,1,1,1,2,2,2,2
+Swale,4,2,4,1,3,3,4,5,4,3
+Thanet,2,1,4,1,2,2,3,3,3,2
+Tonbridge and Malling,3,2,2,0,0,0,2,2,2,1
+Tunbridge Wells,4,3,3,-1,0,1,3,3,3,2
+Burnley,-1,-1,0,0,0,0,1,1,2,0
+Chorley,1,0,0,1,1,1,1,1,0,0
+Fylde,-3,0,0,0,1,0,0,1,1,1
+Hyndburn,1,0,0,1,1,0,1,1,1,1
+Lancaster,5,8,9,11,8,7,6,9,7,4
+Pendle,3,2,2,3,2,2,4,5,7,4
+Preston,9,4,6,5,2,0,2,4,4,1
+Ribble Valley,-1,0,0,1,1,0,0,1,1,0
+Rossendale,0,0,0,1,0,0,0,1,1,1
+South Ribble,0,1,1,1,1,0,0,0,0,0
+West Lancashire,2,2,4,3,2,1,2,2,2,1
+Wyre,0,1,1,1,1,1,1,1,1,1
+Blaby,1,1,1,2,0,0,1,1,1,1
+Charnwood,6,6,7,7,4,4,6,5,5,5
+Harborough,1,1,0,1,1,0,1,1,1,1
+Hinckley and Bosworth,1,1,0,1,0,0,1,1,1,1
+Melton,1,1,0,0,0,0,1,1,1,1
+North West Leicestershire,1,1,0,1,1,0,1,2,1,1
+Oadby and Wigston,2,2,3,4,1,1,2,3,4,3
+Boston,24,27,23,12,12,17,18,20,23,16
+East Lindsey,1,2,1,1,2,1,2,2,2,1
+Lincoln,3,4,5,2,2,4,7,7,6,5
+North Kesteven,2,3,3,1,0,0,1,1,1,1
+South Holland,11,11,9,5,4,6,8,9,9,6
+South Kesteven,3,4,3,1,1,1,2,2,2,2
+West Lindsey,0,1,1,1,1,1,2,1,1,1
+Breckland,4,2,3,4,4,3,4,4,3,2
+Broadland,0,0,1,1,1,0,1,1,1,0
+Great Yarmouth,6,4,4,4,2,3,5,5,4,3
+King's Lynn and West Norfolk,5,3,4,3,1,2,3,3,2,1
+North Norfolk,2,3,3,3,3,2,2,3,2,2
+Norwich,7,6,11,11,6,9,11,16,10,6
+South Norfolk,1,0,1,2,0,0,1,1,1,1
+Corby,6,4,4,4,5,6,9,9,11,7
+Daventry,0,1,0,1,0,1,2,2,3,2
+East Northamptonshire,-1,0,-1,0,0,0,1,2,2,2
+Kettering,0,1,-1,1,2,2,3,3,3,3
+Northampton,9,8,6,5,4,4,9,11,12,9
+South Northamptonshire,-1,0,-1,0,0,2,1,1,1,1
+Wellingborough,2,2,1,3,1,3,5,7,8,6
+Craven,1,0,-1,0,0,1,0,1,1,2
+Hambleton,1,0,0,1,1,1,1,1,1,1
+Harrogate,2,1,0,0,-1,1,1,2,2,1
+Richmondshire,3,1,-1,1,-2,0,1,1,3,2
+Ryedale,3,2,1,1,1,0,1,2,2,1
+Scarborough,2,1,1,2,1,1,0,1,2,1
+Selby,2,2,2,2,1,2,2,2,1,1
+Ashfield,1,1,1,1,0,1,1,1,2,1
+Bassetlaw,2,2,3,2,1,1,3,3,3,2
+Broxtowe,5,4,4,4,2,2,2,3,3,2
+Gedling,1,1,0,0,0,0,1,0,1,1
+Mansfield,3,2,1,2,2,3,4,6,6,4
+Newark and Sherwood,2,2,2,1,1,1,2,2,3,2
+Rushcliffe,1,1,0,0,1,1,1,1,1,1
+Cherwell,5,4,4,3,1,1,3,3,4,1
+Oxford,5,8,18,14,8,10,18,14,15,9
+South Oxfordshire,1,0,1,0,0,0,2,2,2,1
+Vale of White Horse,3,2,2,4,1,1,4,4,4,3
+West Oxfordshire,2,1,1,1,0,0,2,2,3,2
+Mendip,0,-1,1,1,2,1,2,2,2,1
+Sedgemoor,2,0,1,2,2,2,2,3,2,2
+South Somerset,1,0,1,2,0,1,2,2,2,1
+Taunton Deane,1,0,2,2,2,1,1,3,3,2
+West Somerset,3,1,2,1,1,1,1,2,1,1
+Cannock Chase,0,0,0,1,0,0,1,1,2,1
+East Staffordshire,5,1,2,3,3,2,3,5,5,4
+Lichfield,2,1,0,0,1,1,2,1,1,1
+Newcastle-under-Lyme,2,1,3,5,3,3,5,4,3,3
+South Staffordshire,0,0,0,1,1,0,0,0,1,1
+Stafford,3,-1,0,2,1,1,1,2,2,3
+Staffordshire Moorlands,1,0,0,1,0,0,0,0,0,1
+Tamworth,2,0,0,1,0,0,1,2,3,2
+Babergh,0,-2,-1,1,0,1,1,1,1,1
+Forest Heath,0,-2,-1,-3,-2,-4,2,0,-1,-2
+Ipswich,6,1,4,0,1,2,3,7,6,3
+Mid Suffolk,0,-1,0,0,1,0,1,1,1,1
+St Edmundsbury,0,-3,0,0,0,0,2,2,1,0
+Suffolk Coastal,1,-1,0,0,1,1,1,2,2,1
+Waveney,1,0,1,1,1,1,1,2,1,1
+Elmbridge,-5,-7,-3,-5,-3,-1,2,3,4,2
+Epsom and Ewell,3,2,3,2,-2,1,2,2,3,1
+Guildford,6,9,15,14,9,10,10,10,12,7
+Mole Valley,0,0,0,0,-1,-2,1,2,2,1
+Reigate and Banstead,2,2,2,1,0,0,2,2,3,2
+Runnymede,11,7,5,6,6,8,7,9,10,7
+Spelthorne,4,2,1,1,1,0,2,3,3,2
+Surrey Heath,0,-1,1,-1,-1,0,2,2,2,2
+Tandridge,0,0,1,1,0,1,2,1,2,1
+Waverley,0,2,3,1,0,1,2,3,3,2
+Woking,0,0,4,0,-2,0,2,3,4,2
+North Warwickshire,1,0,0,1,1,0,1,1,1,1
+Nuneaton and Bedworth,2,1,0,0,0,0,0,1,2,1
+Rugby,8,4,2,2,2,3,4,5,5,4
+Stratford-on-Avon,7,2,1,1,2,2,3,3,3,3
+Warwick,4,0,-2,-1,-1,0,3,1,3,4
+Adur,1,1,1,0,1,1,1,2,2,1
+Arun,5,4,5,3,2,3,3,2,4,2
+Chichester,4,4,4,1,3,2,3,3,4,2
+Crawley,11,8,8,6,3,4,7,8,9,5
+Horsham,2,2,2,1,1,1,2,2,3,2
+Mid Sussex,3,2,3,1,1,1,2,2,3,2
+Worthing,1,0,2,1,0,1,2,2,2,1
+Bromsgrove,0,0,-1,0,0,1,1,1,1,1
+Malvern Hills,1,1,0,1,2,2,3,3,3,2
+Redditch,4,1,1,2,2,1,3,4,5,4
+Worcester,4,0,0,-1,3,2,1,2,4,2
+Wychavon,4,2,2,2,2,3,4,4,4,3
+Wyre Forest,1,0,0,0,0,0,0,1,1,1
+St Albans,2,1,1,-1,-2,0,2,3,3,2
+Welwyn Hatfield,10,11,12,14,5,9,14,11,13,5
+East Hertfordshire,2,1,0,2,1,2,3,4,4,2
+Stevenage,1,0,0,1,0,1,2,4,4,2
+Bolton,3,3,3,4,2,2,2,3,4,3
+Bury,3,2,2,1,1,0,1,2,3,1
+Manchester,7,6,10,11,9,5,7,14,13,6
+Oldham,4,3,2,3,2,2,3,4,7,4
+Rochdale,3,1,0,1,0,1,2,3,5,3
+Salford,9,7,6,8,4,4,5,8,7,4
+Stockport,1,0,0,0,0,0,0,0,0,0
+Tameside,2,1,1,1,0,0,1,1,2,1
+Trafford,1,0,0,0,0,0,1,1,1,0
+Wigan,1,2,1,2,1,1,1,2,3,1
+Knowsley,0,0,0,0,0,0,1,1,1,0
+Liverpool,2,3,5,7,7,6,6,9,9,3
+St Helens,1,0,1,1,0,0,0,1,1,0
+Sefton,1,1,2,1,1,0,1,1,1,0
+Wirral,-1,0,0,0,0,0,0,1,1,0
+Barnsley,2,1,1,2,1,1,3,5,4,3
+Doncaster,4,1,1,2,1,1,2,4,5,3
+Rotherham,3,2,1,2,1,1,1,2,2,2
+Sheffield,8,7,9,9,6,7,5,9,7,6
+Newcastle upon Tyne,9,13,17,13,4,10,6,8,10,5
+North Tyneside,0,1,1,0,0,0,0,1,2,0
+South Tyneside,2,3,2,2,2,1,0,1,1,1
+Sunderland,3,3,4,4,3,4,4,3,3,3
+Birmingham,7,4,6,7,4,3,5,7,10,7
+Coventry,16,11,15,16,14,14,15,23,22,18
+Dudley,1,1,0,1,1,0,1,1,2,1
+Sandwell,6,5,7,4,4,3,5,6,8,7
+Solihull,1,-1,-1,0,1,1,1,1,1,1
+Walsall,2,1,1,2,1,1,2,2,4,3
+Wolverhampton,7,4,5,6,3,3,4,7,11,8
+Bradford,7,5,6,6,2,3,2,3,3,3
+Calderdale,2,-1,0,1,1,1,1,1,2,2
+Kirklees,3,2,3,4,2,3,2,3,3,3
+Leeds,5,3,6,6,2,2,1,5,5,2
+Wakefield,5,4,3,3,2,2,2,3,3,2
+Gateshead,1,2,2,1,0,1,0,2,4,1
+City of London,33,50,17,56,-119,-78,-13,79,83,41
+Barking and Dagenham,14,15,18,14,9,8,14,16,19,15
+Barnet,14,11,10,14,10,9,12,15,12,11
+Bexley,3,4,5,4,2,3,3,4,4,2
+Brent,28,21,19,18,9,12,19,24,23,18
+Bromley,3,2,3,3,2,2,2,3,3,2
+Camden,13,17,16,34,22,25,28,37,27,22
+Croydon,8,5,6,5,5,5,6,6,7,4
+Ealing,12,10,9,13,4,7,10,13,12,6
+Enfield,13,11,13,8,6,5,9,11,12,9
+Greenwich,11,9,12,11,10,8,11,11,10,7
+Hackney,15,6,2,7,6,8,10,11,10,6
+Hammersmith and Fulham,3,2,-7,1,-1,3,10,13,9,5
+Haringey,30,19,12,13,11,13,18,19,16,11
+Harrow,10,12,13,10,5,5,10,14,15,12
+Havering,2,2,3,3,1,1,3,3,4,3
+Hillingdon,11,8,9,16,10,9,12,13,11,9
+Hounslow,20,16,15,14,9,9,12,14,14,11
+Islington,16,13,14,25,22,18,22,25,21,14
+Kensington and Chelsea,6,-3,-5,-5,-2,3,7,9,7,7
+Kingston upon Thames,12,13,15,17,9,8,10,13,10,7
+Lambeth,13,8,4,10,6,8,8,8,5,1
+Lewisham,14,8,6,10,6,7,10,10,8,5
+Merton,16,11,6,8,-1,4,6,7,7,5
+Newham,41,39,49,39,29,25,31,32,32,25
+Redbridge,11,7,6,13,8,9,12,14,16,13
+Richmond upon Thames,1,0,2,1,-2,0,2,3,3,1
+Southwark,22,18,16,18,11,13,14,15,11,7
+Sutton,3,3,2,3,1,2,2,2,2,1
+Tower Hamlets,27,21,17,20,21,26,29,29,22,18
+Waltham Forest,21,16,15,17,12,14,19,20,18,14
+Wandsworth,4,-1,-4,2,-1,5,5,6,4,0
+Westminster,10,5,7,26,24,27,31,42,32,24
+Antrim and Newtownabbey,2,0,-2,-2,-1,-2,-1,0,-1,-1
+"Armagh City, Banbridge and Craigavon",6,4,3,3,3,3,4,6,5,3
+Belfast,2,2,1,-4,-1,-3,1,2,-2,-2
+Causeway Coast and Glens,2,-1,-1,0,-1,-1,0,0,-2,-1
+Derry City and Strabane,0,-1,-2,-3,-2,-2,-1,-2,0,-1
+Fermanagh and Omagh,5,2,3,1,-1,0,2,0,1,1
+Lisburn and Castlereagh,2,1,0,0,0,0,0,0,-2,0
+Mid and East Antrim,4,2,1,1,1,1,2,3,4,0
+Mid Ulster,10,4,5,3,4,2,5,4,4,2
+"Newry, Mourne and Down",6,3,2,2,1,1,2,2,2,3
+Ards and North Down,0,0,0,-1,0,-1,-1,-1,0,0
+Clackmannanshire,0,1,0,0,-1,-1,-1,0,1,1
+Dumfries and Galloway,-1,-1,-1,0,-2,-2,-2,0,0,-1
+East Ayrshire,-1,-1,-1,-1,-1,-1,-1,-1,0,-1
+East Lothian,3,2,1,2,1,-1,0,2,3,1
+East Renfrewshire,-1,0,0,0,-2,-1,-1,-1,1,0
+Na h-Eileanan Siar (Western Isles),-1,0,0,0,-1,-2,-2,0,1,0
+Falkirk,1,1,1,2,0,-1,0,1,1,1
+Highland,1,1,2,2,-1,-1,0,1,1,0
+Inverclyde,-1,0,0,0,-1,-1,-1,0,0,0
+Midlothian,0,0,0,1,0,-1,0,0,1,0
+Moray,0,0,1,-1,-1,-2,0,-1,1,-1
+North Ayrshire,-1,-1,-1,0,-2,-2,-1,0,0,0
+Orkney Islands,-1,-1,0,1,-2,-1,-1,0,0,0
+Scottish Borders,1,0,-1,1,-1,-2,-2,0,0,0
+Shetland Islands,0,3,1,2,0,-1,-2,1,2,-1
+South Ayrshire,-1,-1,0,1,-1,-2,-1,0,0,0
+South Lanarkshire,-1,0,0,0,-1,-1,-1,-1,0,0
+Stirling,3,4,7,11,5,-1,0,7,5,0
+Aberdeen City,14,17,17,19,9,6,9,14,11,7
+Aberdeenshire,2,2,3,3,1,0,0,1,1,1
+Argyll and Bute,-3,-1,1,1,-2,-2,-3,-1,0,0
+City of Edinburgh,9,14,16,17,8,4,7,12,13,9
+Renfrewshire,1,1,2,3,0,-1,0,2,3,2
+West Dunbartonshire,-1,0,1,0,-1,-1,0,0,1,0
+West Lothian,3,2,2,3,1,0,0,1,2,1
+Angus,1,1,2,2,0,-1,0,0,1,0
+Dundee City,7,7,9,11,4,2,2,5,5,3
+North Lanarkshire,0,0,0,0,-1,-1,0,0,1,0
+East Dunbartonshire,-1,0,-1,-1,-1,-1,-1,-1,0,0
+Glasgow City,7,9,9,12,6,3,7,12,13,9
+Fife,1,3,3,4,1,0,0,2,3,2
+Perth and Kinross,10,8,8,8,3,0,3,3,3,1
+Isle of Anglesey / Ynys Môn,0,0,-1,0,0,1,1,1,1,1
+Gwynedd / Gwynedd,5,2,1,3,3,5,4,7,6,4
+Conwy / Conwy,-1,-1,-3,-1,0,1,1,1,1,1
+Denbighshire / Sir Ddinbych,0,0,-1,-1,-1,1,1,1,1,1
+Flintshire / Sir y Fflint,1,1,0,0,0,1,1,1,2,0
+Wrexham / Wrecsam,5,6,4,3,0,2,0,-1,1,-1
+Ceredigion / Ceredigeon,2,4,1,1,1,5,2,2,4,1
+Pembrokeshire / Sir Benfro,1,1,-2,0,1,1,1,1,1,1
+Carmarthenshire / Sir Gaerfyrddin,2,1,0,0,0,2,2,1,1,1
+Swansea / Abertawe,4,3,2,3,2,5,4,6,8,5
+Neath Port Talbot / Castell-nedd Port Talbot,0,0,0,0,0,1,1,0,2,1
+Bridgend / Pen-y-bont ar Ogwr,0,0,0,0,0,1,1,1,2,1
+Vale of Glamorgan / Bro Morgannwg,1,0,-1,-1,0,1,1,1,1,0
+Cardiff / Caerdydd,7,7,1,2,-1,7,5,5,8,4
+Rhondda Cynon Taf / Rhondda Cynon Taf,2,1,1,1,2,3,2,3,2,1
+Caerphilly / Caerffili,0,0,-1,0,0,0,0,0,0,0
+Blaenau Gwent / Blaenau Gwent,1,1,-1,0,0,1,1,1,1,1
+Torfaen / Tor-faen,0,0,0,0,0,0,0,0,1,0
+Monmouthshire / Sir Fynwy,0,0,-2,-1,-1,1,0,0,2,1
+Newport / Casnewydd,5,3,0,1,1,2,3,2,5,2
+Powys / Powys,1,0,-2,0,0,1,0,0,1,1
+Merthyr Tydfil / Merthyr Tudful,2,3,1,1,1,2,2,1,3,1
